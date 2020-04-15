@@ -1,25 +1,23 @@
-title: Hello, world! I'm David Freeman
+title: Hello! I'm Marin Petrov
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal website of Marin Petrov - rigger, founder, software developer.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://marinpetrov.com" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
+author: Marin Petrov # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
+about-author: I am a Character Technical Director, Software Developer, Hacker, Painter, Family man. I was fortunate to have worked at one of the best animation studios in the world on features like "Ice Age", "Rio", "Ferdinand" and many more. I also co-founded a remote self-managed VR Game Studio and a remote self-managed software company called RGBNotes, which was later acquired by Amazon. # add description
+social-twitter: troll_lock # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-github: scroll # add your Github handle
+social-linkedin: marinpetrov # add your Linkedin handle
+social-email: petrov.marin@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
