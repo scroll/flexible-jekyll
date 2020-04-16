@@ -5,7 +5,7 @@ date: 2017-04-11 13:32:20 +0300
 description: A short story on why we chose Holacracy for Hack and Paint # Add post description (optional)
 img: holacracy-banner.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Holacracy, Management, VR, Games]
+tags: [Holacracy, Management, Self-Management, VR, Games]
 ---
 (*This article was originaly published on the Hack and Paint blog*)
 
