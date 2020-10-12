@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Why I quit my dream job in the animation industry and started two companies
+title: Why I quit my dream job and started two companies
 date: 2020-10-06 13:32:20 +0300
-description: Why I quit and started two companies
+description: Reflecting on my failures and successes
 img: journey.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Management, Startups, Culture]
