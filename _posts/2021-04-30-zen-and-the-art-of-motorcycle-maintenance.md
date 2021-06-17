@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zen and the art of motorcycle maintenance
+title: Zen and the art of motorcycle maintenance.
 date: 2021-04-30 13:32:20 +0300
 description: art and technology
 img: pirsig.jpg # Add image post (optional)
